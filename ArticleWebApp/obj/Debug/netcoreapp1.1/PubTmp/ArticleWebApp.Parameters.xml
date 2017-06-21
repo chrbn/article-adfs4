@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ArticleWebApp" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\crobin\\Documents\\Visual\ Studio\ 2017\\Projects\\ArticleWebApp\\ArticleWebApp\\obj\\Debug\\netcoreapp1\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

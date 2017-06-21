@@ -1,0 +1,9 @@
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\bin\Debug\netcoreapp1.1\ArticleWebApi.deps.json
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\bin\Debug\netcoreapp1.1\ArticleWebApi.runtimeconfig.json
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\bin\Debug\netcoreapp1.1\ArticleWebApi.runtimeconfig.dev.json
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\bin\Debug\netcoreapp1.1\ArticleWebApi.dll
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\obj\Debug\netcoreapp1.1\ArticleWebApi.csprojResolveAssemblyReference.cache
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\obj\Debug\netcoreapp1.1\ArticleWebApi.AssemblyInfo.cs
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\bin\Debug\netcoreapp1.1\ArticleWebApi.pdb
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\obj\Debug\netcoreapp1.1\ArticleWebApi.dll
+c:\users\crobin\documents\visual studio 2017\Projects\ArticleWebApp\ArticleWebApi\obj\Debug\netcoreapp1.1\ArticleWebApi.pdb
